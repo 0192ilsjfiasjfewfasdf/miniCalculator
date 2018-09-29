@@ -1,0 +1,10 @@
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.exe.config
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.exe
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.pdb
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csprojAssemblyReference.cache
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.Form1.resources
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.Properties.Resources.resources
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.GenerateResource.cache
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.exe
+C:\Users\volantshark\source\repos\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.pdb
